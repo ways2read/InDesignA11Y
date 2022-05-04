@@ -18,7 +18,7 @@ In each folder you can find:
 
 ## Validation
 
-Due strumenti essenziali per controllare l'output EPUB 3 di InDesign sono i validatori che vengono usati dalla community:
+Two essential tools for checking EPUB 3 from InDesign are the validators that are used by the publishing industry:
 
 - [EPUBCheck](https://github.com/w3c/epubcheck) is a tool to validate the conformance of EPUB publications against the EPUB specifications
 - [Ace](https://daisy.github.io/ace/), the Accessibility Checker for EPUB, is a tool developed by the DAISY Consortium to assist with the evaluation of accessibility features of EPUB publications
