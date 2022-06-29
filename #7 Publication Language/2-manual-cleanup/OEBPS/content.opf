@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xml:lang="it-IT">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 17.3" />
+		<dc:title>0-source</dc:title>
+		<dc:date>2022-06-29T12:16:11Z</dc:date>
+		<dc:language>it-IT</dc:language>
+		<meta property="dcterms:modified">2022-06-29T12:16:11Z</meta>
+		<dc:identifier id="bookid">urn:uuid:C45ED97A-B730-4064-8690-DB32E17C740A</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="x0-source" href="0-source.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="x0-source" />
+	</spine>
+</package>
